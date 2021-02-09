@@ -1,28 +1,31 @@
-﻿namespace RaindropsTests
+﻿using System.Text;
+
+namespace RaindropsTests
 {
 	public class Raindrops
 	{
-		private string _response = "";
+		private StringBuilder _response = new StringBuilder();
 
 		public string PlingPlangPlong(int n)
 		{
+
 			if (n % 3 == 0)
 			{
-				_response += "Pling";
+				_response.Append("Pling");
 			}
 			if (n % 5 == 0)
 			{
-				_response += "Plang";
+				_response.Append("Plang");
 			}
 			if (n % 7 == 0)
 			{
-				_response += "Plong";
+				_response.Append("Plong");
 			}
-			if (_response == "")
+			if (_response.ToString() == "")
 			{
-				_response += $"{n}";
+				_response.Append($"{n}");
 			}
-			return _response;
+			return _response.ToString();
 		}
 
 	}
