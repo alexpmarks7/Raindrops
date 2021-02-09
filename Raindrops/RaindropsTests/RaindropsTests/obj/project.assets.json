@@ -4633,11 +4633,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\Engineering73\\Raindrops\\RaindropsTests\\RaindropsTests\\RaindropsTests.csproj",
+      "projectUniqueName": "C:\\Users\\alexp\\Documents\\GitHub\\Raindrops\\Raindrops\\RaindropsTests\\RaindropsTests\\RaindropsTests.csproj",
       "projectName": "RaindropsTests",
-      "projectPath": "C:\\GitHub\\Engineering73\\Raindrops\\RaindropsTests\\RaindropsTests\\RaindropsTests.csproj",
+      "projectPath": "C:\\Users\\alexp\\Documents\\GitHub\\Raindrops\\Raindrops\\RaindropsTests\\RaindropsTests\\RaindropsTests.csproj",
       "packagesPath": "C:\\Users\\alexp\\.nuget\\packages\\",
-      "outputPath": "C:\\GitHub\\Engineering73\\Raindrops\\RaindropsTests\\RaindropsTests\\obj\\",
+      "outputPath": "C:\\Users\\alexp\\Documents\\GitHub\\Raindrops\\Raindrops\\RaindropsTests\\RaindropsTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\alexp\\AppData\\Roaming\\NuGet\\NuGet.Config",
